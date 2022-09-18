@@ -1,0 +1,21 @@
+Python
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic data types.
+Python was invented by Guido van Rossum in late 1989, and the first public release was released in 1991.
+Like the Perl language, the Python source code follows the GPL (GNU General Public License).
+//////////////////////////////////////////////////////////////
+Python 3.x
+    The 3.0 version of Python, often referred to as Python 3000, or Py3k for short.
+This is a major upgrade compared to earlier versions of Python.
+In order not to bring too much burden,
+Python 3.0 was not designed with backward compatibility in mind.
+//////////////////////////////////////////////////////////////
+What is the difference between the 2.x and 3.x?
+    Many programs designed for earlier Python versions do not work properly on Python 3.0.
+To accommodate existing programs, Python 2.6 is a transitional version that basically uses Python 2.x syntax and libraries,
+while considering the migration to Python 3.0,
+allowing some python 3.0 syntax and functions to be used.
+The new Python program recommends the syntax of the Python 3.0 version.
+Unless the execution environment cannot install Python 3.0 or the program itself uses a third-party library that does not support Python 3.0.
+Third-party libraries that currently do not support Python 3.0 are Twisted, py2exe, PIL, etc.
+//////////////////////////////////////////////////////////////

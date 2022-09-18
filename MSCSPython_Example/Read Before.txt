@@ -1,0 +1,10 @@
+Hi everyone!
+    I am GavinChen(personal email: gavin.chenpangzhi@outlook.com  WeChat ID: gavinotfound666), one of  the student leader of MS Computer Science Club, also the tutorial's author.
+First, thanks to all the peoples that choose our club and/or tutorial, Thank you.
+Second, If there is any problems or questions, please contact me, and I will fix it,
+also, I will upload the project on to GitHub for attributions.
+Third, I recommend the "RUNOOB" tutorial for totally beginners. "https://www.runoob.com/python/python-tutorial.html"  https://www.runoob.com/python3/python3-tutorial.html
+Last, Thank you again for choosing us.
+
+Sincerely,
+The Computer Science Club Team.
